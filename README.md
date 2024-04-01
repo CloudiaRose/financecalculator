@@ -10,9 +10,10 @@ This program allows the user to calculate the amount of interest they would earn
 
 ## Installation
 To install the project locally, follow these steps:
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Run the program using Python.
+1. Find the project in the Master branch
+2. Clone the repository to your local machine.
+3. Navigate to the project directory.
+4. Run the program using Python.
 
 ## Usage
 After installing the project, you can use it as follows:
@@ -22,8 +23,8 @@ After installing the project, you can use it as follows:
 4. If you choose "bond," you will input the house value, bond interest rate, and repayment period.
 5. The program will then calculate and display the result.
 
-Screenshots of the program in action (run in VS code):
-<img width="637" alt="Screenshot 2024-04-01 095344" src="https://github.com/CloudiaRose/financecalculator/assets/153822165/6956c402-32bd-4386-8fbd-dbc6cddd4047">
+Screenshots of the program in action (run in Python):
+<img width="851" alt="Screenshot 2024-04-01 100821" src="https://github.com/CloudiaRose/financecalculator/assets/153822165/b1afc59e-5f2c-4489-9729-c4de565e3914">
 
 ## Credits
 - Cloudia Barr: Project creator and developer.
